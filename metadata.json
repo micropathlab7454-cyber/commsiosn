@@ -1,0 +1,6 @@
+{
+  "name": "Micro Pathology Lab",
+  "description": "A professional accounting, entry, and reporting application for Micro Pathology Lab with SQLite offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
